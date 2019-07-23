@@ -1,0 +1,8 @@
+.c {
+    background-image: url('https://slator.com/assets/2017/11/udacityloc.jpg');
+    background-repeat: none;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
+}
